@@ -24,21 +24,22 @@
 
 ## 👨‍💻 About Me
 
-```python
-class TriasBudiRianto:
-    def __init__(self):
-        self.name       = "Trias Budi Rianto"
-        self.role       = "Final-year Electrical Engineering Student"
-        self.university = "Universitas Islam Indonesia"
-        self.location   = "Pekanbaru, Riau 🇮🇩"
-        self.focus      = ["Data Analysis", "IoT / Embedded Systems", "AI / LLM Apps"]
-        self.experience = "High Voltage Industrial Systems (UASC)"
-        self.goal       = "Bridge the gap between Electrical Engineering & IT"
-        self.currently  = ["Learning Power BI & Tableau", "Exploring Decision Tree & Random Forest"]
+Halo! Saya **Trias Budi Rianto**, mahasiswa tingkat akhir **Teknik Elektro** di **Universitas Islam Indonesia** 🎓
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together ⚡")
-```
+Saya memiliki passion di bidang **Data Analysis**, **IoT / Embedded Systems**, dan **AI / LLM Apps** — dengan pengalaman di sistem industri tegangan tinggi (UASC) ⚡
+
+> 💡 *"Bridging Electrical Engineering & Information Technology"*
+
+| 📌 | Info |
+|----|------|
+| 🎓 | Universitas Islam Indonesia |
+| 📍 | Pekanbaru, Riau 🇮🇩 |
+| 💼 | Final-year Electrical Engineering Student |
+| 🔭 | Focus: Data Analysis · IoT · AI / LLM Apps |
+| 🏭 | Experience: High Voltage Industrial Systems (UASC) |
+| 📚 | Currently Learning: Power BI & Tableau · Decision Tree & Random Forest |
+
+Thanks for dropping by! Let's build something great together ⚡
 
 ---
 
