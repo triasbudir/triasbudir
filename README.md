@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Electrical+Engineering+%40+UII;Data+Analyst+%7C+IoT+Engineer+%7C+AI+Builder;LangChain+%7C+RAG+%7C+ESP32+%7C+Python;Bridging+Electrical+%2B+IT+World+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/triasbudir">
+  <a href="https://www.linkedin.com/in/trias-budi-rianto-64b0883a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:triasbudir@gmail.com">
@@ -33,7 +33,7 @@ Saya memiliki passion di bidang **Data Analysis**, **IoT / Embedded Systems**, d
 | 📌 | Info |
 |----|------|
 | 🎓 | Universitas Islam Indonesia |
-| 📍 | Pekanbaru, Riau 🇮🇩 |
+| 📍 | Yogyakarta, Indonesia 🇮🇩 |
 | 💼 | Final-year Electrical Engineering Student |
 | 🔭 | Focus: Data Analysis · IoT · AI / LLM Apps |
 | 🏭 | Experience: High Voltage Industrial Systems (UASC) |
@@ -125,7 +125,7 @@ Thanks for dropping by! Let's build something great together ⚡
 
 <div align="center">
 
-📍 Pekanbaru, Riau &nbsp;|&nbsp; 🎓 Universitas Islam Indonesia &nbsp;|&nbsp; ⚡ Teknik Elektro
+📍 Yogyakarta, Indonesia &nbsp;|&nbsp; 🎓 Universitas Islam Indonesia &nbsp;|&nbsp; ⚡ Teknik Elektro
 
 *"Bridging Electrical Engineering & Information Technology"*
 
